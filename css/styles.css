@@ -1,0 +1,15 @@
+html, body {
+    background-color: #333333;
+    color: #f3f3f3;
+}
+.heading {
+    margin-left: 40%;
+    margin-top: 10px;
+}
+.intro1 {
+    background-color: blue;
+    margin-left: 50%;
+}
+.intro3 {
+    margin-left: 50%;
+}
